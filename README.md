@@ -6,5 +6,5 @@ This code is *very* basic - you should add additional markup like caption and sc
 
 You could also add some styles with CSS.
 
-You could add this table to your blog or [publish on GitHub pages](https://thecodersguilduk.github.io/cpd_record)
+Add this table to your blog or [publish on GitHub pages](https://thecodersguilduk.github.io/cpd_record)
 
